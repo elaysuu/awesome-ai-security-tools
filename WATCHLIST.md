@@ -293,7 +293,6 @@ PR review additions: 2026-10-28, six watchlist candidates from PRs #193-196 and 
 
 - [agent-preship-guard](https://github.com/elaysuu/agent-preship-guard) - MIT GitHub Action running 8 heuristic rules (AG001–AG008) over agent code and emitting CI annotations, including a rule for model output selecting a destructive call with no approval gate. Watch: new project with no independent adoption; heuristic only, so expect misses and false positives (v1.0 inverted results on its own demo, fixed in v1.1). README links to the author's paid checklists.
 
-
 ## Reference Candidates
 
 - [hello-ai-security](https://github.com/ManfredCh/hello-ai-security) - Chinese/English educational draft covering generative and embodied AI security. The root license confirms CC BY-NC-SA 4.0 despite GitHub NOASSERTION. Watch as a reference resource, not a tool or authoritative manual: the README labels it compiled-draft, with factual sign-off, rights clearance, and proofreading still open. Reconsider after those review steps are complete and citations can be checked; contents were not comprehensively audited in this pass. *Metadata 2026-10-22: 19 stars · created 2026-09-26 · last commit 2026-10-18.*
